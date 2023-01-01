@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.8" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="TCP_TestSys_Linux.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../TCP_Reno/TCP_Reno/lib/TCP_TestSys_Linux.jar!/"/>
+	</lib>
+	<levels>
+		<level name="TCP_TestSys_Linux" value="project"/>
+		<level name="hadoop-mapreduce-examples-3.3.1" value="project"/>
+	</levels>
+</component>
